@@ -1,4 +1,2 @@
 .venv/
-raw_data.csv
-processed_data.csv
-clustered_data.csv
+data/
