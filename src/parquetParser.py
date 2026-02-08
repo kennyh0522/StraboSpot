@@ -6,7 +6,8 @@ from sys import getsizeof
 print("Running...")
 
 # Parquet files
-parquet_files = glob.glob("data/Parquets")
+parquet_files = glob.glob("data/Raw-Parquets")
+print(len(parquet_files))
 
 # List to store DataFrames
 dfs = []
