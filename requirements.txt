@@ -4,3 +4,4 @@ scikit-learn
 kmodes
 matplotlib
 numpy
+permetrics
