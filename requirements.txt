@@ -5,3 +5,4 @@ kmodes
 matplotlib
 numpy
 permetrics
+tabulate
