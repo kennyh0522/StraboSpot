@@ -6,3 +6,4 @@ matplotlib
 numpy
 permetrics
 tabulate
+pyarrow
